@@ -7,5 +7,5 @@ Your favorite IDE (Intellij IDEA, Eclipse, NetBeans, VS Code)
 
 A Docker environment supported by Testcontainers https://www.testcontainers.org/supported_docker_environment/
 
-##Run tests
+## Run tests
 ./gradlew test
